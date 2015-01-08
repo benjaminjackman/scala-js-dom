@@ -1,6 +1,8 @@
 scala-js-dom
 ============
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/benjaminjackman/scala-js-dom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Provides a nice statically typed interface to the DOM such that it can be called from Scala code without resorting to `js.Dynamic`.
 
 Also contains useful extension methods in `org.scalajs.dom.extensions`, which allow the DOM api to be used in a more idiomatic and fluent way. The goal of this project is to provide a thin-but-idiomatic-scala interface to modern browser APIs. In particular:
